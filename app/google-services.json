@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122514139758",
+    "project_id": "f55122028",
+    "storage_bucket": "f55122028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122514139758:android:d3152ec5abeef891b7547f",
+        "android_client_info": {
+          "package_name": "com.f55122028.firebasefirerestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfuUvd5UbjgkiSYhIxtsPKkXvy15IFHG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
